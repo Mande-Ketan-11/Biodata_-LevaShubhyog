@@ -11,7 +11,7 @@ As this is a live project developed during our internship, we cannot share the c
 ## **Features**  
 - **User Authentication**: Secure login and session management to ensure data privacy.  
 - **Biodata Management**: Add, update, delete, and view biodata records seamlessly.  
-- **Customizable Templates**: Multiple biodata templates available for easy customization.  
+- **Customizable Templates**: Multiple biodata templates are available for easy customization.  
 - **Print Functionality**: Print biodata records directly with optimized formatting.  
 - **Responsive Design**: Works smoothly across various devices.  
 - **Telegram Integration**: Sends real-time Telegram notifications for key actions like printing biodata.  
