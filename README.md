@@ -4,7 +4,7 @@
 *Biodata @ LevaShubhyog* is a robust PHP-based application developed for efficiently managing personal biodata. It provides a secure, user-friendly platform for creating, customizing, and printing biodata records with Telegram integration for notifications. This project was developed during our internship at **Uttercode Software Services**.  
 
 ### **Important Note**  
-As this is a live project developed during our internship, we cannot share the code files due to confidentiality.  
+*As this is a live project developed during our internship, we cannot share the code files due to confidentiality.*
 
 ---
 
