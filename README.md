@@ -14,7 +14,7 @@
 - **Customizable Templates**: Multiple biodata templates are available for easy customization.  
 - **Print Functionality**: Print biodata records directly with optimized formatting.  
 - **Responsive Design**: Works smoothly across various devices.  
-- **Telegram Integration**: Sends real-time Telegram notifications for key actions like printing biodata.  
+- **Telegram Integration**: Sends real-time Telegram notifications for key actions like printing or adding new biodata.  
 - **Notifications**: In-app alerts for successful operations, errors, and other important actions.  
 
 ---
