@@ -21,7 +21,7 @@
 
 ## **Technologies Used**  
 - **Frontend**: HTML5, CSS3, Bootstrap  
-- **Backend**: PHP for server-side logic and processing  
+- **Backend**: PHP for server-side logic and processing and JavaScript  
 - **Database**: MySQL for efficient data storage  
 - **Integration**: Telegram Bot API for notifications  
 - **Version Control**: Git for version tracking and collaboration  
